@@ -44,3 +44,7 @@ Feel free to submit issues and pull requests. All contributions are welcome!
 ## Version
 
 1.0.0
+
+For bugs, questions etc. contact Discord **wyltre.xyz**
+
+
