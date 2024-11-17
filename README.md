@@ -33,13 +33,6 @@ You can customize the appearance of the download button by modifying the CSS in 
 }
 ```
 
-## Browser Support
-
-Works with all modern browsers that support:
-- ES6+ JavaScript
-- Fetch API
-- CSS Transitions
-
 ## License
 
 MIT License - feel free to use this in your projects
@@ -48,10 +41,6 @@ MIT License - feel free to use this in your projects
 
 Feel free to submit issues and pull requests. All contributions are welcome!
 
-## Author
-
-Wyltre
-
 ## Version
 
-1.0.2
+1.0.0
