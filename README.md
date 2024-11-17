@@ -13,25 +13,8 @@ A simple and lightweight JavaScript plugin that adds a download button to media 
 
 ## Installation
 
-1. Download the `MediaDownloader.js` file
-2. Include it in your project
-
-```javascript
-const MediaDownloader = require('./MediaDownloader.js');
-```
-
-## Usage
-
-```javascript
-// Initialize the plugin
-const downloader = new MediaDownloader();
-
-// Start the plugin
-downloader.start();
-
-// Stop the plugin (if needed)
-downloader.stop();
-```
+1. Download the `FastMediaDownloader.plugin.js` file
+2. Discord > Settings > Plugins Open the plugin file and drop the file you downloaded
 
 ## How it works
 
